@@ -1,5 +1,6 @@
-const library = require('react-testing-library');
 import * as React from 'react';
+const library = require('react-testing-library');
+// eslint-disable-next-line import/first
 import { ReactPainter } from '../src';
 
 afterEach(() => {
